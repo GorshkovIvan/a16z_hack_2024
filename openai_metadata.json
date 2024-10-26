@@ -1,1 +1,5 @@
-
+{
+  "name": "OpenAI Access Key",
+  "description": "Provides access key to OpenAI services - /chat endpoint.",
+  "image": "https://raw.githubusercontent.com/GorshkovIvan/a16z_hack_2024/refs/heads/main/openai-chatgpt-logo-icon-free-png.png"
+}
